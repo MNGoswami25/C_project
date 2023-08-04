@@ -1,0 +1,15 @@
+............ ........Welcome to This System.......................
+In this system  you can perform various activities related to
+ students data.
+1. If You are facing any problem to do activies then first you may ensure that you are user or admin
+ of this system if you are not any of them then first you may contact to admin of this system .
+2.To do various activies 1st you may contact to admin of 
+this admission system.He/She add you as a admin or a user,then you 
+can do various activies there.
+3. If you are facing any problem related to accessing the application then see below
+1.Always Press enter for next step
+2.Carefully read all the instruction given above before entering any choice .
+3.Always Enter right choice. 
+Thanks for using.
+Manoj Nath Goswami.
+{Developer}

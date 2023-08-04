@@ -1,0 +1,13 @@
+import turtle
+
+turtle.bgcolor("red")
+n=5;
+for i in range(n):
+    turtle.forward(100)
+    turtle.left(144)   
+    turtle.forward(100)
+    turtle.right(144)
+
+
+
+turtle.done()
